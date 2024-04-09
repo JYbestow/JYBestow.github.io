@@ -1,2 +1,2 @@
-# JYBestow.github.io
-HJY's BLOG
+# MY BLOG
+[This](JYBestow.github.io) is my BLOG!
